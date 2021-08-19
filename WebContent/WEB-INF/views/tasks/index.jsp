@@ -35,7 +35,7 @@
             </c:forEach>
         </div>
 
-        <p><a href="${pageContext.request.contextPath}/new">新規メッセージの投稿</a></p>
+        <p><a href="${pageContext.request.contextPath}/new">タスクの追加</a></p>
 
     </c:param>
 </c:import>
